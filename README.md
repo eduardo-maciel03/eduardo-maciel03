@@ -1,4 +1,4 @@
-## - 🔭 Front-End e Back-End
+## - Front-End e Back-End
 - 💻 Sistemas de Informação (Universidade Mater Dei)
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
