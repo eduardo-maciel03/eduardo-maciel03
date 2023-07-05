@@ -1,4 +1,4 @@
-## - Front-End e Back-End
+## - Full Stack
 - 💻 Sistemas de Informação (Universidade Mater Dei)
 - Learning JAVA in college, and working with C Sharp
 <div style="display: inline_block"><br>
