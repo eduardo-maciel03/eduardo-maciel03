@@ -1,5 +1,5 @@
-### Sobre mim
-Desenvolvedor Full-Stack .NET focando em MAUI, e Blazor (Web).
+### Bem-vindo ao meu perfil!
+Sou desenvolvedor Full-Stack com foco em .NET Blazor (Desenvolvimento WEB).
 
 <div>
   <a href="https://github.com/eduardo-maciel03">
