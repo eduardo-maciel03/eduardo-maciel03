@@ -1,9 +1,9 @@
 ## Bem-vindo ao meu perfil! 👋
-Sou desenvolvedor Full-Stack com foco no ecossistema .NET e Angular.
+Sou desenvolvedor Full-Stack com foco no ecossistema .NET.
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,angular,html,css,mysql,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,dotnet,azure,mysql,sqlite&theme=light)](https://skillicons.dev)
 
 ## Contatos:
 <a href="https://www.linkedin.com/in/eduardo-maciel-pereira-1701a4264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
