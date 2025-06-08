@@ -1,5 +1,5 @@
 ## Welcome to my perfil! 👋
-I'm Full-Stack developer with focused on the .NET ecosystem.
+I'm a Full-Stack developer focused on the .NET ecosystem.
 
 <br />
 
